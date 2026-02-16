@@ -2,7 +2,7 @@
 An AI-powered web application that analyzes resumes, extracts skills, compares them with job roles, and provides match scores along with improvement suggestions.
 
 ## 🔗 Live Application
-https://ai-resume-analyzer-gerkmjtfckxgg8ufecmyy.streamlit.app/
+https://ai-resume-analyzer-gerkmjtfcfkxgg8ufecmyy.streamlit.app/
 
 ## 🚀 Features
 • Upload Resume (PDF / DOCX)  
