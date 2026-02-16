@@ -44,10 +44,13 @@ ai-resume-analyzer/
 └── README.md
 ```
 
-
 ## 💻 Run Locally
+
+```
 pip install -r requirements.txt
 streamlit run app.py
+```
+
 
 ## 👨‍💻 Author
 **Eegam Roshan**  
