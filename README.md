@@ -34,12 +34,16 @@ https://ai-resume-analyzer-gerkmjtfckxgg8ufecmyy.streamlit.app/
    - Improvement Suggestions  
 
 ## 📁 Project Structure
+
+```
 ai-resume-analyzer/
 │
 ├── app.py
 ├── skills.py
 ├── requirements.txt
 └── README.md
+```
+
 
 ## 💻 Run Locally
 pip install -r requirements.txt
